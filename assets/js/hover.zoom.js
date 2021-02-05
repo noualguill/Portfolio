@@ -27,7 +27,7 @@
                         $(this).parent().find('.zoomOverlay').css({
                             opacity:0, 
                             display: 'block', 
-                            backgroundColor: s.overlayColor
+                            backgroundColor: "rgba(255, 255, 255, 0.5)"
                         }); 
                     }
                 
